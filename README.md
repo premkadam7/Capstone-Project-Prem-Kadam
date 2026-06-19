@@ -133,7 +133,7 @@ Weights inversely proportional to GARCH(1,1) Day-1 forecasted volatility:
 ## How to Run
 
 ### 1. Open in Google Colab
-Upload `CAPSTONE_PK_FINALIZED.ipynb` to [Google Colab](https://colab.research.google.com)
+Upload `capstone_notebook.ipynb` to [Google Colab](https://colab.research.google.com)
 
 ### 2. Install dependencies
 The first cell handles this automatically:
