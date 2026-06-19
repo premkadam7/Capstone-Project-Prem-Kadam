@@ -195,4 +195,6 @@ numpy
 
 ---
 
-*Submitted to: Consulting & Analytics Club, IIT Guwahati | May 2026*
+## 🏅 Verification
+This project was submitted to and verified by the 
+Consulting & Analytics Club, IIT Guwahati — May 2026.
